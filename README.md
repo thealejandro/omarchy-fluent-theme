@@ -1,3 +1,5 @@
+<a href="https://thealejandro.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/marca/logotipo.svg"><img alt="thealejandro" src="docs/marca/logotipo-mono-oscuro.svg" height="32"></picture></a>
+
 # Fluent
 
 [Español](README.es.md)
@@ -41,5 +43,7 @@ Without the hooks the theme still works; windows just keep your default corners.
 Update with `omarchy theme update`; remove with `omarchy theme remove fluent`.
 
 More themes: [thealejandro.dev/omarchy](https://thealejandro.dev/omarchy)
+
+Made by [thealejandro](https://thealejandro.dev)
 
 Not affiliated with Apple or Microsoft. [MIT](LICENSE)

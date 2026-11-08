@@ -1,3 +1,5 @@
+<a href="https://thealejandro.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/marca/logotipo.svg"><img alt="thealejandro" src="docs/marca/logotipo-mono-oscuro.svg" height="32"></picture></a>
+
 # Fluent
 
 [English](README.md)
@@ -41,5 +43,7 @@ Sin los hooks el tema funciona igual; las ventanas solo conservan tus esquinas d
 Actualiza con `omarchy theme update`; quítalo con `omarchy theme remove fluent`.
 
 Más temas: [thealejandro.dev/omarchy](https://thealejandro.dev/omarchy)
+
+Hecho por [thealejandro](https://thealejandro.dev)
 
 Sin relación con Apple ni Microsoft. [MIT](LICENSE)
