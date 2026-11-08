@@ -38,7 +38,7 @@ Sin los hooks el tema funciona igual; las ventanas solo conservan tus esquinas d
 | `icons.theme` | Iconos: `Yaru-blue-dark`. |
 | `shape.toml` | Esquinas: 8 px, curvatura 4. |
 | `hyprland.lua` | El mismo borde y esquinas, por si copias la carpeta a mano. |
-| `backgrounds/` | Tres fondos de pantalla, hechos para este tema. |
+| `backgrounds/` | Tres fondos hechos para este tema, más `4-firma.jpg` con una marca discreta, opcional. |
 
 Actualiza con `omarchy theme update`; quítalo con `omarchy theme remove fluent`.
 

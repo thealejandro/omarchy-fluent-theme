@@ -38,7 +38,7 @@ Without the hooks the theme still works; windows just keep your default corners.
 | `icons.theme` | Icon theme: `Yaru-blue-dark`. |
 | `shape.toml` | Corners: 8 px, rounding power 4. |
 | `hyprland.lua` | The same border and corners, for when you copy the folder by hand. |
-| `backgrounds/` | Three wallpapers, made for this theme. |
+| `backgrounds/` | Three wallpapers made for this theme, plus `4-firma.jpg` with a discreet mark, optional. |
 
 Update with `omarchy theme update`; remove with `omarchy theme remove fluent`.
 
